@@ -1,0 +1,11 @@
+
+Attendance Application - MAIN + TEST VERSION
+Testing Branch
+main branch change
+test branch change
+Main Rebase testing
+Rebase testing
+Squash change 1
+Squash change2
+Squash change 3
+cherry pick practice
